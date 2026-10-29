@@ -1,17 +1,11 @@
-# w2_muhammadrizqifadhilah
+### 1. Output 3 Kartu Mahasiswa
 
-A new Flutter project.
+![Soal 1](screenshot/Screenshot%202026-10-30%20044504.png)
 
-## Getting Started
+### 2. Output Profil Mahasiswa
 
-This project is a starting point for a Flutter application.
+![Soal 2](screenshot/Screenshot%202026-10-30%20045143.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 3. Output Counter menggunakan SetState
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Soal 3](screenshot/Screenshot%202026-10-30%20045255.png)
